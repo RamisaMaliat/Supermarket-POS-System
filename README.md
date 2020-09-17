@@ -1,6 +1,9 @@
 # Supermarket-POS-System
 A simple POS system for a supermarket written in C++.
 
+Here is a powerpoint presentation on the project:
+[SUPERMARKET POS SYSTEM presentation.pptx](https://github.com/RamisaMaliat/Supermarket-POS-System/files/5241246/SUPERMARKET.POS.SYSTEM.presentation.pptx)
+
 ## How info are stored?
 - "File Format.txt" contains the format of all the files that are used by the system to store information.
 - To log in as an administrator,one has to provide correct user id and password of one of the valid administrators. 
