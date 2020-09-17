@@ -74,8 +74,3 @@ Total of provided Cashier IDs
 Total of provided Employee IDs
 Total of provided Product IDs
 Total of provided Customer IDs
-
-
-
-
-
