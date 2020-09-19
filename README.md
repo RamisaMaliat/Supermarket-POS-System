@@ -17,13 +17,15 @@ inside "branch/[branch id of the employee]/employees".info of deleted employees 
 - Information of a branch can be found in file [Branch id].txt inside "branch/[Branch id]". 
 - Information of a product can be found in file [Product id].txt inside "product" folder.The daily requirements
 and available quantity of these products in a branch are stored in "products.txt" inside "branch/[branch id]".
+- Information of customers having membership are stored.They can be found in files named as [Customer id].txt inside "customer" folder.
 - All the ids used in the system are generated automatically and cannot be changed. Format:
-	- Id for products: "P"+[product number]" -> Ex: P5
+	- Id for products: "P"+[product number] -> Ex: P5
+	- Id for customers: "CUST"+[customer number] -> Ex: CUST3
 	- Id for branches: "B"+[branch number] -> Ex: B2
 	- Id for administrators: "A"+[administrator number] -> Ex: A1
 	- Id for employees:
 		- Id for managers: [branch id]+"EMP"+[employee number]+"M"+[manager number] -> Ex: B1EMP1M1
 		- Id for cashiers: [branch id]+"EMP"+[employee number]+"C"+[cashier number] -> Ex: B1EMP4C2
 		- Id for other employees: [branch id]+"EMP"+[employee number] -> Ex: B2EMP19
-    
- "Total.txt" keeps track of the numbers required to assign ids.
+
+"Total.txt" keeps track of the numbers required to assign ids.
