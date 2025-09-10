@@ -1,4 +1,7 @@
 # Supermarket-POS-System
+
+Supermarket POS System | C++
+
 A simple POS system for a supermarket written in C++.
 
 Here is a powerpoint presentation on the project:
