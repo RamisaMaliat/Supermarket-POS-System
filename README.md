@@ -2,9 +2,7 @@
 
 Supermarket POS System | C++
 
-A simple POS system for a supermarket written in C++.
-
-Here is a powerpoint presentation on the project:
+A simple POS system for a supermarket written in C++. Here is a powerpoint presentation on the project:
 [SUPERMARKET POS SYSTEM presentation.pptx](https://github.com/RamisaMaliat/Supermarket-POS-System/files/5241246/SUPERMARKET.POS.SYSTEM.presentation.pptx)
 
 ## How info are stored?
